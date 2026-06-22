@@ -116,3 +116,4 @@ python model.py           # Train & evaluate models
 - **numpy** — numerical operations
 - **matplotlib / seaborn** — visualizations
 - **scikit-learn** — classifiers, metrics, cross-validation
+# loan-approval-predictor
