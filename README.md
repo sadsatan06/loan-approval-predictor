@@ -4,11 +4,11 @@
 
 | Field | Details |
 |---|---|
-| **Intern ID** | *(your intern ID)* |
-| **Full Name** | *(your name)* |
-| **No. of Weeks** | *(duration)* |
+| **Intern ID** | CITS5203 |
+| **Full Name** | Anagh Pandey |
+| **No. of Weeks** | 4 |
 | **Project Name** | Loan Approval Predictor |
-| **Project Scope** | Binary Classification — Predict whether a loan application will be approved or rejected |
+| **Project Scope** | Machine Learning |
 
 ---
 
